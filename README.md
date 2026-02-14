@@ -61,6 +61,14 @@ src/main/java
 | PUT | /api/products/{id} | Update existing product |
 | DELETE | /api/products/{id} | Delete product |
 
+## Screenshots
+
+### Swagger UI - API Documentation
+![Swagger UI](screenshots/swagger-ui.png)
+
+### H2 Database Console
+![H2 Console](screenshots/h2-console.png)
+
 ## Sample JSON Request/Response
 
 ### Create Product (POST)
